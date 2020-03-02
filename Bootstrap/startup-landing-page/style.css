@@ -1,0 +1,55 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: "Montserrat", sans-serif;
+  background: url(header.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 3rem;
+  color: rgb(240, 254, 255);
+  text-shadow: rgb(240, 254, 255) 1px 0px 0px;
+}
+
+i {
+  color: #a0ac44;
+}
+
+.buffer {
+  height: 10rem;
+}
+
+.divisor { 
+  width: 15px;
+  height: 40px;
+  background-color: white;
+  margin: auto;
+	border-radius:100px 100px; 
+} 
+
+.btn-primary {
+  padding: 1rem 2rem;
+  text-transform: uppercase;
+  background-color: #a0ac44;
+  font-weight: 700;
+  border-color: #a0ac44;
+  margin-top: 3px;
+}
+
+.btn-primary:hover ~ .divisor{
+  background-color: cornflowerblue;
+  border-width: 4px;
+  border-color: cornflowerblue;
+ 
+	-webkit-transform: rotate(20deg);
+    -moz-transform: rotate(20deg);
+    -o-transform: rotate(20deg);
+    -ms-transform: rotate(20deg);
+    transform: rotate(20deg);
+
+}
