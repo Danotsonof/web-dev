@@ -1,0 +1,33 @@
+Web-Dev Diary
+
+2020/02/29: 
+Started "the complete web developer in 2020 from zero to mastery" course by Andrei Neagoie
+
+Learnt how the internet works, what happens when we type in a website site in the browser.
+
+The wired and wireless connections of the internet space.
+
+used tracert on my windows pc to check the trips to a server.
+
+History of WWW with her transition over the years.
+
+Wrote my first HTML code and my first website.
+
+The web address of my web pages use the file protocol,
+"file:///C:/Users/*xoxo*/Documents/soft/web-dev/index.html"
+i also understood the existence of absolute and relative path.
+
+Did some html practice and them had my break.
+
+I resumed after my break to learning the operation of CSS (Cascading Style Sheets).
+For quick help on property I found css-tricks.com very helpful and for color selection, palentton.com is the site to go. 
+
+2020/03/01: 
+Yay! its a new month. Continued with my CSS lessons but could only do few hours though.
+Learnt about the critical render path
+
+2020/03/02:
+Started with understanding flexbox and more advanced CSS concepts.
+https://flexboxfroggy.com/
+caniuse.com
+https://thoughtbot.com/blog/transitions-and-transforms
