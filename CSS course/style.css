@@ -1,0 +1,38 @@
+body {
+    background-image: url("smiley.jpg");
+}
+
+section > h2 {
+    /* display: inline-block; */
+    text-align: center;
+}
+
+img {
+    float: left;
+}
+
+div{
+    clear: both;
+}
+
+ul{
+    background-color: rgba(73, 12, 88, 0.4);
+}
+
+li{
+    display: inline-block;
+}
+
+h2{
+    text-align: center;
+    border: 2px solid rgba(255, 32, 1, 0.4);
+}
+
+h2 > p:hover {
+    text-align: right;
+}
+
+h2 + p:hover {
+    line-height: 20px;
+    font-style: italic;
+}
