@@ -31,3 +31,10 @@ Started with understanding flexbox and more advanced CSS concepts.
 https://flexboxfroggy.com/
 caniuse.com
 https://thoughtbot.com/blog/transitions-and-transforms
+
+2020/03/03:
+Completed a mini-blog project with two pages using html, bootstrap and css. Check it out: https://danotsonof.github.io/mini-blog.github.io/
+https://daneden.github.io/animate.css/
+https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price
+
+learnt about css grid
