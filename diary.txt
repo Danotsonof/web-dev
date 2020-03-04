@@ -22,7 +22,7 @@ Did some html practice and them had my break.
 I resumed after my break to learning the operation of CSS (Cascading Style Sheets).
 For quick help on property I found css-tricks.com very helpful and for color selection, palentton.com is the site to go. 
 
-2020/03/01: 
+2020/03/01:
 Yay! its a new month. Continued with my CSS lessons but could only do few hours though.
 Learnt about the critical render path
 
@@ -38,3 +38,6 @@ https://daneden.github.io/animate.css/
 https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price
 
 learnt about css grid
+
+2020/03/04:
+built a webpage template with css, media query 
